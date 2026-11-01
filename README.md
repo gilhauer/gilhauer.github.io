@@ -1,1 +1,1 @@
-# gilhauer.github.io
+DevOps Backups is a private tool used by Gil Hauer to back up selected files from a personal Linux VM to Google Drive. Backups are encrypted locally before upload. This application is not offered to other users.
